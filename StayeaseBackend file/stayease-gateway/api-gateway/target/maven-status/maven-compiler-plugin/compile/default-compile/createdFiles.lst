@@ -1,0 +1,2 @@
+com\gateway\ApiGatewayApplication.class
+com\gateway\config\CorsGlobalConfig.class

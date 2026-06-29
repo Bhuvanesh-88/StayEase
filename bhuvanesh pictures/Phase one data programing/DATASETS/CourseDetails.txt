@@ -1,0 +1,8 @@
+CourseName$Fees$TaxPercentage
+Kafka$3000$10
+Spark$3500$14
+Scala$2000$10
+AWS$2700$11
+Azure$2900$14
+Java$5700$13
+HBase$3100$11
